@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JPMorgan Chase Bank, NA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: #002d72; /* Blue color for text */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #002d72;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        .highlight {
+            background-color: #e7f3ff; /* Light blue highlight */
+            padding: 5px;
+        }
+        footer {
+            background-color: #002d72;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .social-links a {
+            margin: 0 10px;
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>JPMorgan Chase Bank, NA</h1>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>We are an American national bank headquartered in New York City, constituting the consumer and commercial banking subsidiary of JPMorgan Chase.</p>
+    <p class="highlight">Our commitment to excellence and innovation has made us a leader in the financial industry.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <p>We offer a range of services including consumer banking, commercial banking, asset management, and financial advisory services.</p>
+    <ul>
+        <li>Consumer Banking</li>
+        <li>Commercial Banking</li>
+        <li>Asset Management</li>
+        <li>Financial Advisory</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>For more information, reach out to us through our social media channels:</p>
+    <div class="social-links">
+        <a href="https://www.facebook.com/JPMorganChase">Facebook</a>
+        <a href="https://twitter.com/jpmorgan">Twitter</a>
+        <a href="https://www.linkedin.com/company/jpmorganchase">LinkedIn</a>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 JPMorgan Chase Bank, NA. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
